@@ -20,6 +20,10 @@ https://docs.google.com/presentation/d/1Prab2EujL-p8wQavUmdisiNfRgy-yIbXSZcFWxBi
 ## Code:
 code.js
 
+## Video
+1. https://www.facebook.com/smkamranqadri/videos/2465385446808583/?story_fbid=2465385446808583&id=100000114543064&_rdr
+2. https://www.facebook.com/smkamranqadri/videos/vb.100000114543064/2465419126805215/?type=2&theater
+
 
 <b>Press F12 to open console and start practice..
 Happy Coding .. <3</b>
